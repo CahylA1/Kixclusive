@@ -1,0 +1,49 @@
+// Layout theme variables 
+$maincolor: black;
+$contrastcolor: white;
+
+// fonts
+$mainfont: 'Ariel', 'Helvetica';
+
+// Layout theme Mixin 
+@mixin white-text-black-bg {
+  color: $contrastcolor;
+  background-color: $contrastcolor;
+}
+
+@mixin black-text-white-bg {
+  color: $maincolor;
+  background-color: $contrastcolor;
+  
+}
+
+// Header styles
+.Header {
+  @include white-text-black-bg;
+  display: flex;
+  justify-content: flex-start;
+  a {
+    @include black-text-white-bg;
+    h1 {
+      color: red;
+      margin: 10px;
+      font-size: large;
+    }
+  }
+}
+
+// BUTTON 
+button#delete {
+  color: white;
+  background-color: red;
+  display: block;
+  margin: auto;
+  font-size: 1.3em;
+  padding: 10px;
+}
+
+div.shoe {
+  link{
+    display: grid;
+  }
+}
