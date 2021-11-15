@@ -1,13 +1,13 @@
-The Kixclusive Application 
+# The Kixclusive Application 
 
-// INTRODUCTION
+## INTRODUCTION
 Kixclusive is a website for sneaker collectors, resellers and buyers to keep track of their inventory and 
 upcoming releases . 
 On Kixclusive you can upload a sneaker into your 'Collection' page to keep you updated and set reminders 
 on when a sneaker you are looking forward to releases. 
 Becoming a memeber and signing up for kixclusive gives you exclusive access to buy and sell sneakers.
 
-// Technologies Used 
+## Technologies Used 
 HTML
 CSS
 JAVASCRIPT
