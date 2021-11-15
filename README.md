@@ -17,8 +17,10 @@ MONGODB & MONGOOSE
 NODE 
 EXPRESS 
 
-// LINKS 
+## LINKS 
 https://trello.com/b/CMrfgodI/project-mern
+
+## SCREENSHOTS
 
 ![Alt_Text] 
 ![Screen Shot 2021-11-13 at 9 09 35 AM](https://user-images.githubusercontent.com/87740448/141649237-e9cb2504-1e9a-412b-b705-d43ca0f2d859.png)
@@ -26,7 +28,7 @@ https://trello.com/b/CMrfgodI/project-mern
 ![Screen Shot 2021-11-13 at 9 10 41 AM](https://user-images.githubusercontent.com/87740448/141649245-c12cf641-4687-4a3f-a726-3df84ba07e8f.png)
 
 
-//FUTURE ENHANCEMENTS 
+## FUTURE ENHANCEMENTS 
 
 In the future I would like to build more life unto my project by adding more CSS and styling. 
 Also I want to add features where you can view sneaker more into detail ( Ex: Zooming in , Spining around 
